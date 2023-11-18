@@ -1,0 +1,440 @@
+,actual_x,predicted_x,Date,Team_x,Opponent_x,Result_x,actual_y,predicted_y,Team_y,Opponent_y,Result_y
+0,0,1,2023-01-04,Atalanta,Spezia,D,0,0,Spezia,Atalanta,D
+1,1,0,2023-01-09,Atalanta,Bologna,W,0,0,Bologna,Atalanta,L
+2,1,0,2023-01-15,Atalanta,Salernitana,W,0,0,Salernitana,Atalanta,L
+3,0,0,2023-01-22,Atalanta,Juventus,D,0,0,Juventus,Atalanta,D
+4,1,0,2023-01-28,Atalanta,Sampdoria,W,0,0,Sampdoria,Atalanta,L
+5,0,1,2023-02-04,Atalanta,Sassuolo,L,1,0,Sassuolo,Atalanta,W
+6,1,0,2023-02-11,Atalanta,Lazio,W,0,0,Lazio,Atalanta,L
+7,0,1,2023-02-19,Atalanta,Lecce,L,1,0,Lecce,Atalanta,W
+8,0,0,2023-02-26,Atalanta,Milan,L,1,0,Milan,Atalanta,W
+9,0,0,2023-03-04,Atalanta,Udinese,D,0,0,Udinese,Atalanta,D
+10,0,0,2023-03-11,Atalanta,Napoli,L,1,1,Napoli,Atalanta,W
+11,1,0,2023-03-17,Atalanta,Empoli,W,0,0,Empoli,Atalanta,L
+12,1,1,2023-04-01,Atalanta,Cremonese,W,0,0,Cremonese,Atalanta,L
+13,0,1,2023-04-08,Atalanta,Bologna,L,1,0,Bologna,Atalanta,W
+14,0,0,2023-04-17,Atalanta,Fiorentina,D,0,1,Fiorentina,Atalanta,D
+15,1,0,2023-04-24,Atalanta,Roma,W,0,0,Roma,Atalanta,L
+16,1,0,2023-04-29,Atalanta,Torino,W,0,0,Torino,Atalanta,L
+17,1,0,2023-05-03,Atalanta,Spezia,W,0,0,Spezia,Atalanta,L
+18,0,0,2023-05-07,Atalanta,Juventus,L,1,0,Juventus,Atalanta,W
+19,0,0,2023-05-13,Atalanta,Salernitana,L,1,0,Salernitana,Atalanta,W
+20,1,0,2023-05-20,Atalanta,Hellas Verona,W,0,0,Hellas Verona,Atalanta,L
+21,0,0,2023-05-27,Atalanta,Inter,L,1,0,Internazionale,Atalanta,W
+22,1,0,2023-06-04,Atalanta,Monza,W,0,0,Monza,Atalanta,L
+23,0,0,2023-01-04,Bologna,Roma,L,1,0,Roma,Bologna,W
+24,0,0,2023-01-09,Bologna,Atalanta,L,1,0,Atalanta,Bologna,W
+25,1,0,2023-01-15,Bologna,Udinese,W,0,0,Udinese,Bologna,L
+26,0,1,2023-01-23,Bologna,Cremonese,D,0,0,Cremonese,Bologna,D
+27,1,0,2023-01-27,Bologna,Spezia,W,0,0,Spezia,Bologna,L
+28,1,1,2023-02-05,Bologna,Fiorentina,W,0,0,Fiorentina,Bologna,L
+29,0,0,2023-02-12,Bologna,Monza,L,1,0,Monza,Bologna,W
+30,1,1,2023-02-18,Bologna,Sampdoria,W,0,0,Sampdoria,Bologna,L
+31,1,0,2023-02-26,Bologna,Inter,W,0,0,Internazionale,Bologna,L
+32,0,0,2023-03-06,Bologna,Torino,L,1,0,Torino,Bologna,W
+33,0,0,2023-03-11,Bologna,Lazio,D,0,0,Lazio,Bologna,D
+34,0,0,2023-03-18,Bologna,Salernitana,D,0,1,Salernitana,Bologna,D
+35,1,0,2023-04-02,Bologna,Udinese,W,0,0,Udinese,Bologna,L
+36,1,0,2023-04-08,Bologna,Atalanta,W,0,1,Atalanta,Bologna,L
+37,0,0,2023-04-15,Bologna,Milan,D,0,1,Milan,Bologna,D
+38,0,0,2023-04-21,Bologna,Hellas Verona,L,1,1,Hellas Verona,Bologna,W
+39,0,0,2023-04-30,Bologna,Juventus,D,0,0,Juventus,Bologna,D
+40,0,0,2023-05-04,Bologna,Empoli,L,1,0,Empoli,Bologna,W
+41,0,0,2023-05-08,Bologna,Sassuolo,D,0,0,Sassuolo,Bologna,D
+42,0,0,2023-05-14,Bologna,Roma,D,0,1,Roma,Bologna,D
+43,1,0,2023-05-20,Bologna,Cremonese,W,0,0,Cremonese,Bologna,L
+44,0,0,2023-05-28,Bologna,Napoli,D,0,1,Napoli,Bologna,D
+45,1,0,2023-06-04,Bologna,Lecce,W,0,0,Lecce,Bologna,L
+46,0,0,2023-01-04,Cremonese,Juventus,L,1,1,Juventus,Cremonese,W
+47,0,0,2023-01-09,Cremonese,Hellas Verona,L,1,0,Hellas Verona,Cremonese,W
+48,0,0,2023-01-14,Cremonese,Monza,L,1,0,Monza,Cremonese,W
+49,0,0,2023-01-23,Cremonese,Bologna,D,0,1,Bologna,Cremonese,D
+50,0,0,2023-01-28,Cremonese,Inter,L,1,0,Internazionale,Cremonese,W
+51,0,0,2023-02-04,Cremonese,Lecce,L,1,0,Lecce,Cremonese,W
+52,0,0,2023-02-12,Cremonese,Napoli,L,1,0,Napoli,Cremonese,W
+53,0,0,2023-02-20,Cremonese,Torino,D,0,0,Torino,Cremonese,D
+54,1,0,2023-02-28,Cremonese,Roma,W,0,0,Roma,Cremonese,L
+55,0,0,2023-03-06,Cremonese,Sassuolo,L,1,1,Sassuolo,Cremonese,W
+56,0,0,2023-03-12,Cremonese,Fiorentina,L,1,0,Fiorentina,Cremonese,W
+57,0,0,2023-03-18,Cremonese,Monza,D,0,0,Monza,Cremonese,D
+58,0,0,2023-04-01,Cremonese,Atalanta,L,1,1,Atalanta,Cremonese,W
+59,1,0,2023-04-08,Cremonese,Sampdoria,W,0,0,Sampdoria,Cremonese,L
+60,1,0,2023-04-14,Cremonese,Empoli,W,0,0,Empoli,Cremonese,L
+61,0,0,2023-04-23,Cremonese,Udinese,L,1,1,Udinese,Cremonese,W
+62,0,0,2023-04-30,Cremonese,Hellas Verona,D,0,0,Hellas Verona,Cremonese,D
+63,0,0,2023-05-03,Cremonese,Milan,D,0,0,Milan,Cremonese,D
+64,1,0,2023-05-06,Cremonese,Spezia,W,0,0,Spezia,Cremonese,L
+65,0,0,2023-05-14,Cremonese,Juventus,L,1,0,Juventus,Cremonese,W
+66,0,0,2023-05-20,Cremonese,Bologna,L,1,0,Bologna,Cremonese,W
+67,0,0,2023-05-28,Cremonese,Lazio,L,1,1,Lazio,Cremonese,W
+68,1,1,2023-06-03,Cremonese,Salernitana,W,0,0,Salernitana,Cremonese,L
+69,0,0,2023-01-04,Empoli,Udinese,D,0,0,Udinese,Empoli,D
+70,0,0,2023-01-08,Empoli,Lazio,D,0,0,Lazio,Empoli,D
+71,1,1,2023-01-16,Empoli,Sampdoria,W,0,0,Sampdoria,Empoli,L
+72,1,0,2023-01-23,Empoli,Inter,W,0,1,Internazionale,Empoli,L
+73,0,0,2023-01-28,Empoli,Torino,D,0,1,Torino,Empoli,D
+74,0,0,2023-02-04,Empoli,Roma,L,1,1,Roma,Empoli,W
+75,0,0,2023-02-11,Empoli,Spezia,D,0,0,Spezia,Empoli,D
+76,0,1,2023-02-19,Empoli,Fiorentina,D,0,0,Fiorentina,Empoli,D
+77,0,0,2023-02-25,Empoli,Napoli,L,1,1,Napoli,Empoli,W
+78,0,0,2023-03-04,Empoli,Monza,L,1,0,Monza,Empoli,W
+79,0,0,2023-03-11,Empoli,Udinese,L,1,0,Udinese,Empoli,W
+80,0,0,2023-03-17,Empoli,Atalanta,L,1,0,Atalanta,Empoli,W
+81,1,0,2023-04-03,Empoli,Lecce,W,0,0,Lecce,Empoli,L
+82,0,0,2023-04-07,Empoli,Milan,D,0,0,Milan,Empoli,D
+83,0,0,2023-04-14,Empoli,Cremonese,L,1,0,Cremonese,Empoli,W
+84,0,0,2023-04-23,Empoli,Inter,L,1,1,Internazionale,Empoli,W
+85,0,0,2023-04-30,Empoli,Sassuolo,L,1,0,Sassuolo,Empoli,W
+86,1,0,2023-05-04,Empoli,Bologna,W,0,0,Bologna,Empoli,L
+87,1,0,2023-05-08,Empoli,Salernitana,W,0,0,Salernitana,Empoli,L
+88,0,0,2023-05-15,Empoli,Sampdoria,D,0,0,Sampdoria,Empoli,D
+89,1,0,2023-05-22,Empoli,Juventus,W,0,0,Juventus,Empoli,L
+90,0,0,2023-05-28,Empoli,Hellas Verona,D,0,0,Hellas Verona,Empoli,D
+91,0,0,2023-06-03,Empoli,Lazio,L,1,1,Lazio,Empoli,W
+92,0,0,2023-01-04,Fiorentina,Monza,D,0,0,Monza,Fiorentina,D
+93,1,1,2023-01-07,Fiorentina,Sassuolo,W,0,0,Sassuolo,Fiorentina,L
+94,0,0,2023-01-15,Fiorentina,Roma,L,1,0,Roma,Fiorentina,W
+95,0,1,2023-01-21,Fiorentina,Torino,L,1,1,Torino,Fiorentina,W
+96,0,0,2023-01-29,Fiorentina,Lazio,D,0,0,Lazio,Fiorentina,D
+97,0,0,2023-02-05,Fiorentina,Bologna,L,1,1,Bologna,Fiorentina,W
+98,0,0,2023-02-12,Fiorentina,Juventus,L,1,1,Juventus,Fiorentina,W
+99,0,0,2023-02-19,Fiorentina,Empoli,D,0,1,Empoli,Fiorentina,D
+100,1,0,2023-02-27,Fiorentina,Hellas Verona,W,0,1,Hellas Verona,Fiorentina,L
+101,1,0,2023-03-04,Fiorentina,Milan,W,0,1,Milan,Fiorentina,L
+102,1,0,2023-03-12,Fiorentina,Cremonese,W,0,0,Cremonese,Fiorentina,L
+103,1,0,2023-03-19,Fiorentina,Lecce,W,0,0,Lecce,Fiorentina,L
+104,1,0,2023-04-01,Fiorentina,Inter,W,0,1,Internazionale,Fiorentina,L
+105,0,1,2023-04-08,Fiorentina,Spezia,D,0,0,Spezia,Fiorentina,D
+106,0,1,2023-04-17,Fiorentina,Atalanta,D,0,0,Atalanta,Fiorentina,D
+107,0,1,2023-04-23,Fiorentina,Monza,L,1,0,Monza,Fiorentina,W
+108,1,0,2023-04-30,Fiorentina,Sampdoria,W,0,0,Sampdoria,Fiorentina,L
+109,0,0,2023-05-03,Fiorentina,Salernitana,D,0,0,Salernitana,Fiorentina,D
+110,0,0,2023-05-07,Fiorentina,Napoli,L,1,1,Napoli,Fiorentina,W
+111,1,1,2023-05-14,Fiorentina,Udinese,W,0,0,Udinese,Fiorentina,L
+112,0,0,2023-05-21,Fiorentina,Torino,D,0,1,Torino,Fiorentina,D
+113,1,0,2023-05-27,Fiorentina,Roma,W,0,0,Roma,Fiorentina,L
+114,1,1,2023-06-02,Fiorentina,Sassuolo,W,0,1,Sassuolo,Fiorentina,L
+115,0,0,2023-01-04,Hellas Verona,Torino,D,0,0,Torino,Hellas Verona,D
+116,1,0,2023-01-09,Hellas Verona,Cremonese,W,0,0,Cremonese,Hellas Verona,L
+117,0,0,2023-01-14,Hellas Verona,Inter,L,1,0,Internazionale,Hellas Verona,W
+118,1,0,2023-01-21,Hellas Verona,Lecce,W,0,0,Lecce,Hellas Verona,L
+119,0,1,2023-01-30,Hellas Verona,Udinese,D,0,0,Udinese,Hellas Verona,D
+120,0,0,2023-02-06,Hellas Verona,Lazio,D,0,0,Lazio,Hellas Verona,D
+121,1,1,2023-02-13,Hellas Verona,Salernitana,W,0,0,Salernitana,Hellas Verona,L
+122,0,0,2023-02-19,Hellas Verona,Roma,L,1,0,Roma,Hellas Verona,W
+123,0,1,2023-02-27,Hellas Verona,Fiorentina,L,1,0,Fiorentina,Hellas Verona,W
+124,0,0,2023-03-05,Hellas Verona,Spezia,D,0,0,Spezia,Hellas Verona,D
+125,0,0,2023-03-12,Hellas Verona,Monza,D,0,0,Monza,Hellas Verona,D
+126,0,1,2023-03-19,Hellas Verona,Sampdoria,L,1,0,Sampdoria,Hellas Verona,W
+127,0,0,2023-04-01,Hellas Verona,Juventus,L,1,1,Juventus,Hellas Verona,W
+128,1,0,2023-04-08,Hellas Verona,Sassuolo,W,0,0,Sassuolo,Hellas Verona,L
+129,0,0,2023-04-15,Hellas Verona,Napoli,D,0,0,Napoli,Hellas Verona,D
+130,1,1,2023-04-21,Hellas Verona,Bologna,W,0,0,Bologna,Hellas Verona,L
+131,0,0,2023-04-30,Hellas Verona,Cremonese,D,0,0,Cremonese,Hellas Verona,D
+132,0,0,2023-05-03,Hellas Verona,Inter,L,1,1,Internazionale,Hellas Verona,W
+133,1,0,2023-05-07,Hellas Verona,Lecce,W,0,0,Lecce,Hellas Verona,L
+134,0,0,2023-05-14,Hellas Verona,Torino,L,1,0,Torino,Hellas Verona,W
+135,0,0,2023-05-20,Hellas Verona,Atalanta,L,1,0,Atalanta,Hellas Verona,W
+136,0,0,2023-05-28,Hellas Verona,Empoli,D,0,0,Empoli,Hellas Verona,D
+137,0,0,2023-06-04,Hellas Verona,Milan,L,1,0,Milan,Hellas Verona,W
+138,1,0,2023-06-11,Hellas Verona,Spezia,W,0,0,Spezia,Hellas Verona,L
+139,1,1,2023-01-04,Juventus,Cremonese,W,0,0,Cremonese,Juventus,L
+140,1,0,2023-01-07,Juventus,Udinese,W,0,0,Udinese,Juventus,L
+141,0,0,2023-01-13,Juventus,Napoli,L,1,0,Napoli,Juventus,W
+142,0,0,2023-01-22,Juventus,Atalanta,D,0,0,Atalanta,Juventus,D
+143,0,0,2023-01-29,Juventus,Monza,L,1,0,Monza,Juventus,W
+144,1,0,2023-02-07,Juventus,Salernitana,W,0,0,Salernitana,Juventus,L
+145,1,1,2023-02-12,Juventus,Fiorentina,W,0,0,Fiorentina,Juventus,L
+146,1,0,2023-02-19,Juventus,Spezia,W,0,0,Spezia,Juventus,L
+147,1,1,2023-02-28,Juventus,Torino,W,0,0,Torino,Juventus,L
+148,0,0,2023-03-05,Juventus,Roma,L,1,0,Roma,Juventus,W
+149,1,1,2023-03-12,Juventus,Sampdoria,W,0,0,Sampdoria,Juventus,L
+150,1,0,2023-03-19,Juventus,Inter,W,0,0,Internazionale,Juventus,L
+151,1,1,2023-04-01,Juventus,Hellas Verona,W,0,0,Hellas Verona,Juventus,L
+152,0,0,2023-04-08,Juventus,Lazio,L,1,0,Lazio,Juventus,W
+153,0,0,2023-04-16,Juventus,Sassuolo,L,1,0,Sassuolo,Juventus,W
+154,0,0,2023-04-23,Juventus,Napoli,L,1,0,Napoli,Juventus,W
+155,0,0,2023-04-30,Juventus,Bologna,D,0,0,Bologna,Juventus,D
+156,1,0,2023-05-03,Juventus,Lecce,W,0,0,Lecce,Juventus,L
+157,1,0,2023-05-07,Juventus,Atalanta,W,0,0,Atalanta,Juventus,L
+158,1,0,2023-05-14,Juventus,Cremonese,W,0,0,Cremonese,Juventus,L
+159,0,0,2023-05-22,Juventus,Empoli,L,1,0,Empoli,Juventus,W
+160,0,0,2023-05-28,Juventus,Milan,L,1,0,Milan,Juventus,W
+161,1,0,2023-06-04,Juventus,Udinese,W,0,0,Udinese,Juventus,L
+162,0,0,2023-01-04,Lazio,Lecce,L,1,0,Lecce,Lazio,W
+163,0,0,2023-01-08,Lazio,Empoli,D,0,0,Empoli,Lazio,D
+164,1,0,2023-01-15,Lazio,Sassuolo,W,0,0,Sassuolo,Lazio,L
+165,1,0,2023-01-24,Lazio,Milan,W,0,0,Milan,Lazio,L
+166,0,0,2023-01-29,Lazio,Fiorentina,D,0,0,Fiorentina,Lazio,D
+167,0,0,2023-02-06,Lazio,Hellas Verona,D,0,0,Hellas Verona,Lazio,D
+168,0,0,2023-02-11,Lazio,Atalanta,L,1,0,Atalanta,Lazio,W
+169,1,0,2023-02-19,Lazio,Salernitana,W,0,0,Salernitana,Lazio,L
+170,1,0,2023-02-27,Lazio,Sampdoria,W,0,0,Sampdoria,Lazio,L
+171,1,0,2023-03-03,Lazio,Napoli,W,0,1,Napoli,Lazio,L
+172,0,0,2023-03-11,Lazio,Bologna,D,0,0,Bologna,Lazio,D
+173,1,0,2023-03-19,Lazio,Roma,W,0,0,Roma,Lazio,L
+174,1,0,2023-04-02,Lazio,Monza,W,0,0,Monza,Lazio,L
+175,1,0,2023-04-08,Lazio,Juventus,W,0,0,Juventus,Lazio,L
+176,1,0,2023-04-14,Lazio,Spezia,W,0,0,Spezia,Lazio,L
+177,0,1,2023-04-22,Lazio,Torino,L,1,0,Torino,Lazio,W
+178,0,0,2023-04-30,Lazio,Inter,L,1,1,Internazionale,Lazio,W
+179,1,0,2023-05-03,Lazio,Sassuolo,W,0,0,Sassuolo,Lazio,L
+180,0,0,2023-05-06,Lazio,Milan,L,1,0,Milan,Lazio,W
+181,0,0,2023-05-12,Lazio,Lecce,D,0,0,Lecce,Lazio,D
+182,1,0,2023-05-21,Lazio,Udinese,W,0,0,Udinese,Lazio,L
+183,1,1,2023-05-28,Lazio,Cremonese,W,0,0,Cremonese,Lazio,L
+184,1,1,2023-06-03,Lazio,Empoli,W,0,0,Empoli,Lazio,L
+185,1,0,2023-01-04,Lecce,Lazio,W,0,0,Lazio,Lecce,L
+186,0,1,2023-01-08,Lecce,Spezia,D,0,0,Spezia,Lecce,D
+187,0,0,2023-01-14,Lecce,Milan,D,0,0,Milan,Lecce,D
+188,0,0,2023-01-21,Lecce,Hellas Verona,L,1,0,Hellas Verona,Lecce,W
+189,0,0,2023-01-27,Lecce,Salernitana,L,1,0,Salernitana,Lecce,W
+190,1,0,2023-02-04,Lecce,Cremonese,W,0,0,Cremonese,Lecce,L
+191,0,0,2023-02-11,Lecce,Roma,D,0,0,Roma,Lecce,D
+192,1,0,2023-02-19,Lecce,Atalanta,W,0,1,Atalanta,Lecce,L
+193,0,1,2023-02-25,Lecce,Sassuolo,L,1,0,Sassuolo,Lecce,W
+194,0,0,2023-03-05,Lecce,Inter,L,1,1,Internazionale,Lecce,W
+195,0,1,2023-03-12,Lecce,Torino,L,1,0,Torino,Lecce,W
+196,0,0,2023-03-19,Lecce,Fiorentina,L,1,0,Fiorentina,Lecce,W
+197,0,0,2023-04-03,Lecce,Empoli,L,1,0,Empoli,Lecce,W
+198,0,0,2023-04-07,Lecce,Napoli,L,1,0,Napoli,Lecce,W
+199,0,1,2023-04-16,Lecce,Sampdoria,D,0,0,Sampdoria,Lecce,D
+200,0,0,2023-04-23,Lecce,Milan,L,1,1,Milan,Lecce,W
+201,1,1,2023-04-28,Lecce,Udinese,W,0,0,Udinese,Lecce,L
+202,0,0,2023-05-03,Lecce,Juventus,L,1,0,Juventus,Lecce,W
+203,0,0,2023-05-07,Lecce,Hellas Verona,L,1,0,Hellas Verona,Lecce,W
+204,0,0,2023-05-12,Lecce,Lazio,D,0,0,Lazio,Lecce,D
+205,0,0,2023-05-21,Lecce,Spezia,D,0,0,Spezia,Lecce,D
+206,1,0,2023-05-28,Lecce,Monza,W,0,0,Monza,Lecce,L
+207,0,0,2023-06-04,Lecce,Bologna,L,1,0,Bologna,Lecce,W
+208,1,0,2023-01-04,Milan,Salernitana,W,0,0,Salernitana,Milan,L
+209,0,0,2023-01-08,Milan,Roma,D,0,0,Roma,Milan,D
+210,0,0,2023-01-14,Milan,Lecce,D,0,0,Lecce,Milan,D
+211,0,0,2023-01-24,Milan,Lazio,L,1,0,Lazio,Milan,W
+212,0,0,2023-01-29,Milan,Sassuolo,L,1,0,Sassuolo,Milan,W
+213,0,0,2023-02-05,Milan,Inter,L,1,0,Internazionale,Milan,W
+214,1,0,2023-02-10,Milan,Torino,W,0,0,Torino,Milan,L
+215,1,0,2023-02-18,Milan,Monza,W,0,0,Monza,Milan,L
+216,1,0,2023-02-26,Milan,Atalanta,W,0,0,Atalanta,Milan,L
+217,0,1,2023-03-04,Milan,Fiorentina,L,1,0,Fiorentina,Milan,W
+218,0,1,2023-03-13,Milan,Salernitana,D,0,0,Salernitana,Milan,D
+219,0,0,2023-03-18,Milan,Udinese,L,1,0,Udinese,Milan,W
+220,1,0,2023-04-02,Milan,Napoli,W,0,0,Napoli,Milan,L
+221,0,0,2023-04-07,Milan,Empoli,D,0,0,Empoli,Milan,D
+222,0,1,2023-04-15,Milan,Bologna,D,0,0,Bologna,Milan,D
+223,1,1,2023-04-23,Milan,Lecce,W,0,0,Lecce,Milan,L
+224,0,0,2023-04-29,Milan,Roma,D,0,0,Roma,Milan,D
+225,0,0,2023-05-03,Milan,Cremonese,D,0,0,Cremonese,Milan,D
+226,1,0,2023-05-06,Milan,Lazio,W,0,0,Lazio,Milan,L
+227,0,1,2023-05-13,Milan,Spezia,L,1,0,Spezia,Milan,W
+228,1,1,2023-05-20,Milan,Sampdoria,W,0,0,Sampdoria,Milan,L
+229,1,0,2023-05-28,Milan,Juventus,W,0,0,Juventus,Milan,L
+230,1,0,2023-06-04,Milan,Hellas Verona,W,0,0,Hellas Verona,Milan,L
+231,0,0,2023-01-04,Monza,Fiorentina,D,0,0,Fiorentina,Monza,D
+232,0,0,2023-01-07,Monza,Inter,D,0,0,Internazionale,Monza,D
+233,1,0,2023-01-14,Monza,Cremonese,W,0,0,Cremonese,Monza,L
+234,0,0,2023-01-22,Monza,Sassuolo,D,0,0,Sassuolo,Monza,D
+235,1,0,2023-01-29,Monza,Juventus,W,0,0,Juventus,Monza,L
+236,0,0,2023-02-06,Monza,Sampdoria,D,0,0,Sampdoria,Monza,D
+237,1,0,2023-02-12,Monza,Bologna,W,0,0,Bologna,Monza,L
+238,0,0,2023-02-18,Monza,Milan,L,1,0,Milan,Monza,W
+239,0,0,2023-02-26,Monza,Salernitana,L,1,0,Salernitana,Monza,W
+240,1,0,2023-03-04,Monza,Empoli,W,0,0,Empoli,Monza,L
+241,0,0,2023-03-12,Monza,Hellas Verona,D,0,0,Hellas Verona,Monza,D
+242,0,0,2023-03-18,Monza,Cremonese,D,0,0,Cremonese,Monza,D
+243,0,0,2023-04-02,Monza,Lazio,L,1,0,Lazio,Monza,W
+244,0,0,2023-04-08,Monza,Udinese,D,0,0,Udinese,Monza,D
+245,1,0,2023-04-15,Monza,Inter,W,0,0,Internazionale,Monza,L
+246,1,0,2023-04-23,Monza,Fiorentina,W,0,1,Fiorentina,Monza,L
+247,1,1,2023-04-28,Monza,Spezia,W,0,0,Spezia,Monza,L
+248,0,0,2023-05-03,Monza,Roma,D,0,0,Roma,Monza,D
+249,0,0,2023-05-07,Monza,Torino,D,0,0,Torino,Monza,D
+250,1,0,2023-05-14,Monza,Napoli,W,0,0,Napoli,Monza,L
+251,1,0,2023-05-19,Monza,Sassuolo,W,0,0,Sassuolo,Monza,L
+252,0,0,2023-05-28,Monza,Lecce,L,1,0,Lecce,Monza,W
+253,0,0,2023-06-04,Monza,Atalanta,L,1,0,Atalanta,Monza,W
+254,0,0,2023-01-04,Napoli,Inter,L,1,0,Internazionale,Napoli,W
+255,1,1,2023-01-08,Napoli,Sampdoria,W,0,0,Sampdoria,Napoli,L
+256,1,0,2023-01-13,Napoli,Juventus,W,0,0,Juventus,Napoli,L
+257,1,0,2023-01-21,Napoli,Salernitana,W,0,0,Salernitana,Napoli,L
+258,1,1,2023-01-29,Napoli,Roma,W,0,0,Roma,Napoli,L
+259,1,1,2023-02-05,Napoli,Spezia,W,0,0,Spezia,Napoli,L
+260,1,0,2023-02-12,Napoli,Cremonese,W,0,0,Cremonese,Napoli,L
+261,1,1,2023-02-17,Napoli,Sassuolo,W,0,0,Sassuolo,Napoli,L
+262,1,1,2023-02-25,Napoli,Empoli,W,0,0,Empoli,Napoli,L
+263,0,1,2023-03-03,Napoli,Lazio,L,1,0,Lazio,Napoli,W
+264,1,1,2023-03-11,Napoli,Atalanta,W,0,0,Atalanta,Napoli,L
+265,1,1,2023-03-19,Napoli,Torino,W,0,0,Torino,Napoli,L
+266,0,0,2023-04-02,Napoli,Milan,L,1,0,Milan,Napoli,W
+267,1,0,2023-04-07,Napoli,Lecce,W,0,0,Lecce,Napoli,L
+268,0,0,2023-04-15,Napoli,Hellas Verona,D,0,0,Hellas Verona,Napoli,D
+269,1,0,2023-04-23,Napoli,Juventus,W,0,0,Juventus,Napoli,L
+270,0,1,2023-04-30,Napoli,Salernitana,D,0,0,Salernitana,Napoli,D
+271,0,0,2023-05-04,Napoli,Udinese,D,0,0,Udinese,Napoli,D
+272,1,1,2023-05-07,Napoli,Fiorentina,W,0,0,Fiorentina,Napoli,L
+273,0,0,2023-05-14,Napoli,Monza,L,1,0,Monza,Napoli,W
+274,1,0,2023-05-21,Napoli,Inter,W,0,0,Internazionale,Napoli,L
+275,0,1,2023-05-28,Napoli,Bologna,D,0,0,Bologna,Napoli,D
+276,1,1,2023-06-04,Napoli,Sampdoria,W,0,0,Sampdoria,Napoli,L
+277,1,0,2023-01-04,Roma,Bologna,W,0,0,Bologna,Roma,L
+278,0,0,2023-01-08,Roma,Milan,D,0,0,Milan,Roma,D
+279,1,0,2023-01-15,Roma,Fiorentina,W,0,0,Fiorentina,Roma,L
+280,1,1,2023-01-22,Roma,Spezia,W,0,0,Spezia,Roma,L
+281,0,0,2023-01-29,Roma,Napoli,L,1,1,Napoli,Roma,W
+282,1,1,2023-02-04,Roma,Empoli,W,0,0,Empoli,Roma,L
+283,0,0,2023-02-11,Roma,Lecce,D,0,0,Lecce,Roma,D
+284,1,0,2023-02-19,Roma,Hellas Verona,W,0,0,Hellas Verona,Roma,L
+285,0,0,2023-02-28,Roma,Cremonese,L,1,0,Cremonese,Roma,W
+286,1,0,2023-03-05,Roma,Juventus,W,0,0,Juventus,Roma,L
+287,0,0,2023-03-12,Roma,Sassuolo,L,1,0,Sassuolo,Roma,W
+288,0,0,2023-03-19,Roma,Lazio,L,1,0,Lazio,Roma,W
+289,1,0,2023-04-02,Roma,Sampdoria,W,0,0,Sampdoria,Roma,L
+290,1,1,2023-04-08,Roma,Torino,W,0,0,Torino,Roma,L
+291,1,1,2023-04-16,Roma,Udinese,W,0,0,Udinese,Roma,L
+292,0,0,2023-04-24,Roma,Atalanta,L,1,0,Atalanta,Roma,W
+293,0,0,2023-04-29,Roma,Milan,D,0,0,Milan,Roma,D
+294,0,0,2023-05-03,Roma,Monza,D,0,0,Monza,Roma,D
+295,0,0,2023-05-06,Roma,Inter,L,1,1,Internazionale,Roma,W
+296,0,1,2023-05-14,Roma,Bologna,D,0,0,Bologna,Roma,D
+297,0,0,2023-05-22,Roma,Salernitana,D,0,0,Salernitana,Roma,D
+298,0,0,2023-05-27,Roma,Fiorentina,L,1,0,Fiorentina,Roma,W
+299,1,0,2023-06-04,Roma,Spezia,W,0,0,Spezia,Roma,L
+300,0,0,2023-01-04,Salernitana,Milan,L,1,0,Milan,Salernitana,W
+301,0,0,2023-01-08,Salernitana,Torino,D,0,0,Torino,Salernitana,D
+302,0,0,2023-01-15,Salernitana,Atalanta,L,1,0,Atalanta,Salernitana,W
+303,0,0,2023-01-21,Salernitana,Napoli,L,1,0,Napoli,Salernitana,W
+304,1,0,2023-01-27,Salernitana,Lecce,W,0,0,Lecce,Salernitana,L
+305,0,0,2023-02-07,Salernitana,Juventus,L,1,0,Juventus,Salernitana,W
+306,0,0,2023-02-13,Salernitana,Hellas Verona,L,1,1,Hellas Verona,Salernitana,W
+307,0,0,2023-02-19,Salernitana,Lazio,L,1,0,Lazio,Salernitana,W
+308,1,0,2023-02-26,Salernitana,Monza,W,0,0,Monza,Salernitana,L
+309,0,1,2023-03-05,Salernitana,Sampdoria,D,0,0,Sampdoria,Salernitana,D
+310,0,0,2023-03-13,Salernitana,Milan,D,0,1,Milan,Salernitana,D
+311,0,1,2023-03-18,Salernitana,Bologna,D,0,0,Bologna,Salernitana,D
+312,0,0,2023-04-02,Salernitana,Spezia,D,0,1,Spezia,Salernitana,D
+313,0,0,2023-04-07,Salernitana,Inter,D,0,0,Internazionale,Salernitana,D
+314,0,0,2023-04-16,Salernitana,Torino,D,0,0,Torino,Salernitana,D
+315,1,0,2023-04-22,Salernitana,Sassuolo,W,0,0,Sassuolo,Salernitana,L
+316,0,0,2023-04-30,Salernitana,Napoli,D,0,1,Napoli,Salernitana,D
+317,0,0,2023-05-03,Salernitana,Fiorentina,D,0,0,Fiorentina,Salernitana,D
+318,0,0,2023-05-08,Salernitana,Empoli,L,1,0,Empoli,Salernitana,W
+319,1,0,2023-05-13,Salernitana,Atalanta,W,0,0,Atalanta,Salernitana,L
+320,0,0,2023-05-22,Salernitana,Roma,D,0,0,Roma,Salernitana,D
+321,1,0,2023-05-27,Salernitana,Udinese,W,0,0,Udinese,Salernitana,L
+322,0,0,2023-06-03,Salernitana,Cremonese,L,1,1,Cremonese,Salernitana,W
+323,1,0,2023-01-04,Sampdoria,Sassuolo,W,0,0,Sassuolo,Sampdoria,L
+324,0,0,2023-01-08,Sampdoria,Napoli,L,1,1,Napoli,Sampdoria,W
+325,0,0,2023-01-16,Sampdoria,Empoli,L,1,1,Empoli,Sampdoria,W
+326,0,0,2023-01-22,Sampdoria,Udinese,L,1,1,Udinese,Sampdoria,W
+327,0,0,2023-01-28,Sampdoria,Atalanta,L,1,0,Atalanta,Sampdoria,W
+328,0,0,2023-02-06,Sampdoria,Monza,D,0,0,Monza,Sampdoria,D
+329,0,0,2023-02-13,Sampdoria,Inter,D,0,1,Internazionale,Sampdoria,D
+330,0,0,2023-02-18,Sampdoria,Bologna,L,1,1,Bologna,Sampdoria,W
+331,0,0,2023-02-27,Sampdoria,Lazio,L,1,0,Lazio,Sampdoria,W
+332,0,0,2023-03-05,Sampdoria,Salernitana,D,0,1,Salernitana,Sampdoria,D
+333,0,0,2023-03-12,Sampdoria,Juventus,L,1,1,Juventus,Sampdoria,W
+334,1,0,2023-03-19,Sampdoria,Hellas Verona,W,0,1,Hellas Verona,Sampdoria,L
+335,0,0,2023-04-02,Sampdoria,Roma,L,1,0,Roma,Sampdoria,W
+336,0,0,2023-04-08,Sampdoria,Cremonese,L,1,0,Cremonese,Sampdoria,W
+337,0,0,2023-04-16,Sampdoria,Lecce,D,0,1,Lecce,Sampdoria,D
+338,0,0,2023-04-22,Sampdoria,Spezia,D,0,0,Spezia,Sampdoria,D
+339,0,0,2023-04-30,Sampdoria,Fiorentina,L,1,0,Fiorentina,Sampdoria,W
+340,0,0,2023-05-03,Sampdoria,Torino,L,1,0,Torino,Sampdoria,W
+341,0,0,2023-05-08,Sampdoria,Udinese,L,1,1,Udinese,Sampdoria,W
+342,0,0,2023-05-15,Sampdoria,Empoli,D,0,0,Empoli,Sampdoria,D
+343,0,0,2023-05-20,Sampdoria,Milan,L,1,1,Milan,Sampdoria,W
+344,0,0,2023-05-26,Sampdoria,Sassuolo,D,0,1,Sassuolo,Sampdoria,D
+345,0,0,2023-06-04,Sampdoria,Napoli,L,1,1,Napoli,Sampdoria,W
+346,0,0,2023-01-04,Sassuolo,Sampdoria,L,1,0,Sampdoria,Sassuolo,W
+347,0,0,2023-01-07,Sassuolo,Fiorentina,L,1,1,Fiorentina,Sassuolo,W
+348,0,0,2023-01-15,Sassuolo,Lazio,L,1,0,Lazio,Sassuolo,W
+349,0,0,2023-01-22,Sassuolo,Monza,D,0,0,Monza,Sassuolo,D
+350,1,0,2023-01-29,Sassuolo,Milan,W,0,0,Milan,Sassuolo,L
+351,1,0,2023-02-04,Sassuolo,Atalanta,W,0,1,Atalanta,Sassuolo,L
+352,0,0,2023-02-12,Sassuolo,Udinese,D,0,1,Udinese,Sassuolo,D
+353,0,0,2023-02-17,Sassuolo,Napoli,L,1,1,Napoli,Sassuolo,W
+354,1,0,2023-02-25,Sassuolo,Lecce,W,0,1,Lecce,Sassuolo,L
+355,1,1,2023-03-06,Sassuolo,Cremonese,W,0,0,Cremonese,Sassuolo,L
+356,1,0,2023-03-12,Sassuolo,Roma,W,0,0,Roma,Sassuolo,L
+357,1,1,2023-03-17,Sassuolo,Spezia,W,0,1,Spezia,Sassuolo,L
+358,0,0,2023-04-03,Sassuolo,Torino,D,0,0,Torino,Sassuolo,D
+359,0,0,2023-04-08,Sassuolo,Hellas Verona,L,1,0,Hellas Verona,Sassuolo,W
+360,1,0,2023-04-16,Sassuolo,Juventus,W,0,0,Juventus,Sassuolo,L
+361,0,0,2023-04-22,Sassuolo,Salernitana,L,1,0,Salernitana,Sassuolo,W
+362,1,0,2023-04-30,Sassuolo,Empoli,W,0,0,Empoli,Sassuolo,L
+363,0,0,2023-05-03,Sassuolo,Lazio,L,1,0,Lazio,Sassuolo,W
+364,0,0,2023-05-08,Sassuolo,Bologna,D,0,0,Bologna,Sassuolo,D
+365,0,0,2023-05-13,Sassuolo,Inter,L,1,1,Internazionale,Sassuolo,W
+366,0,0,2023-05-19,Sassuolo,Monza,L,1,0,Monza,Sassuolo,W
+367,0,1,2023-05-26,Sassuolo,Sampdoria,D,0,0,Sampdoria,Sassuolo,D
+368,0,1,2023-06-02,Sassuolo,Fiorentina,L,1,1,Fiorentina,Sassuolo,W
+369,0,0,2023-01-04,Spezia,Atalanta,D,0,1,Atalanta,Spezia,D
+370,0,0,2023-01-08,Spezia,Lecce,D,0,1,Lecce,Spezia,D
+371,1,0,2023-01-15,Spezia,Torino,W,0,0,Torino,Spezia,L
+372,0,0,2023-01-22,Spezia,Roma,L,1,1,Roma,Spezia,W
+373,0,0,2023-01-27,Spezia,Bologna,L,1,0,Bologna,Spezia,W
+374,0,0,2023-02-05,Spezia,Napoli,L,1,1,Napoli,Spezia,W
+375,0,0,2023-02-11,Spezia,Empoli,D,0,0,Empoli,Spezia,D
+376,0,0,2023-02-19,Spezia,Juventus,L,1,0,Juventus,Spezia,W
+377,0,0,2023-02-26,Spezia,Udinese,D,0,0,Udinese,Spezia,D
+378,0,0,2023-03-05,Spezia,Hellas Verona,D,0,0,Hellas Verona,Spezia,D
+379,1,0,2023-03-10,Spezia,Inter,W,0,1,Internazionale,Spezia,L
+380,0,1,2023-03-17,Spezia,Sassuolo,L,1,1,Sassuolo,Spezia,W
+381,0,1,2023-04-02,Spezia,Salernitana,D,0,0,Salernitana,Spezia,D
+382,0,0,2023-04-08,Spezia,Fiorentina,D,0,1,Fiorentina,Spezia,D
+383,0,0,2023-04-14,Spezia,Lazio,L,1,0,Lazio,Spezia,W
+384,0,0,2023-04-22,Spezia,Sampdoria,D,0,0,Sampdoria,Spezia,D
+385,0,0,2023-04-28,Spezia,Monza,L,1,1,Monza,Spezia,W
+386,0,0,2023-05-03,Spezia,Atalanta,L,1,0,Atalanta,Spezia,W
+387,0,0,2023-05-06,Spezia,Cremonese,L,1,0,Cremonese,Spezia,W
+388,1,0,2023-05-13,Spezia,Milan,W,0,1,Milan,Spezia,L
+389,0,0,2023-05-21,Spezia,Lecce,D,0,0,Lecce,Spezia,D
+390,0,1,2023-05-27,Spezia,Torino,L,1,0,Torino,Spezia,W
+391,0,0,2023-06-04,Spezia,Roma,L,1,0,Roma,Spezia,W
+392,0,0,2023-06-11,Spezia,Hellas Verona,L,1,0,Hellas Verona,Spezia,W
+393,0,0,2023-01-04,Torino,Hellas Verona,D,0,0,Hellas Verona,Torino,D
+394,0,0,2023-01-08,Torino,Salernitana,D,0,0,Salernitana,Torino,D
+395,0,0,2023-01-15,Torino,Spezia,L,1,0,Spezia,Torino,W
+396,1,1,2023-01-21,Torino,Fiorentina,W,0,1,Fiorentina,Torino,L
+397,0,1,2023-01-28,Torino,Empoli,D,0,0,Empoli,Torino,D
+398,1,0,2023-02-05,Torino,Udinese,W,0,1,Udinese,Torino,L
+399,0,0,2023-02-10,Torino,Milan,L,1,0,Milan,Torino,W
+400,0,0,2023-02-20,Torino,Cremonese,D,0,0,Cremonese,Torino,D
+401,0,0,2023-02-28,Torino,Juventus,L,1,1,Juventus,Torino,W
+402,1,0,2023-03-06,Torino,Bologna,W,0,0,Bologna,Torino,L
+403,1,0,2023-03-12,Torino,Lecce,W,0,1,Lecce,Torino,L
+404,0,0,2023-03-19,Torino,Napoli,L,1,1,Napoli,Torino,W
+405,0,0,2023-04-03,Torino,Sassuolo,D,0,0,Sassuolo,Torino,D
+406,0,0,2023-04-08,Torino,Roma,L,1,1,Roma,Torino,W
+407,0,0,2023-04-16,Torino,Salernitana,D,0,0,Salernitana,Torino,D
+408,1,0,2023-04-22,Torino,Lazio,W,0,1,Lazio,Torino,L
+409,0,0,2023-04-29,Torino,Atalanta,L,1,0,Atalanta,Torino,W
+410,1,0,2023-05-03,Torino,Sampdoria,W,0,0,Sampdoria,Torino,L
+411,0,0,2023-05-07,Torino,Monza,D,0,0,Monza,Torino,D
+412,1,0,2023-05-14,Torino,Hellas Verona,W,0,0,Hellas Verona,Torino,L
+413,0,1,2023-05-21,Torino,Fiorentina,D,0,0,Fiorentina,Torino,D
+414,1,0,2023-05-27,Torino,Spezia,W,0,1,Spezia,Torino,L
+415,0,0,2023-06-03,Torino,Inter,L,1,0,Internazionale,Torino,W
+416,0,0,2023-01-04,Udinese,Empoli,D,0,0,Empoli,Udinese,D
+417,0,0,2023-01-07,Udinese,Juventus,L,1,0,Juventus,Udinese,W
+418,0,0,2023-01-15,Udinese,Bologna,L,1,0,Bologna,Udinese,W
+419,1,1,2023-01-22,Udinese,Sampdoria,W,0,0,Sampdoria,Udinese,L
+420,0,0,2023-01-30,Udinese,Hellas Verona,D,0,1,Hellas Verona,Udinese,D
+421,0,1,2023-02-05,Udinese,Torino,L,1,0,Torino,Udinese,W
+422,0,1,2023-02-12,Udinese,Sassuolo,D,0,0,Sassuolo,Udinese,D
+423,0,0,2023-02-18,Udinese,Inter,L,1,1,Internazionale,Udinese,W
+424,0,0,2023-02-26,Udinese,Spezia,D,0,0,Spezia,Udinese,D
+425,0,0,2023-03-04,Udinese,Atalanta,D,0,0,Atalanta,Udinese,D
+426,1,0,2023-03-11,Udinese,Empoli,W,0,0,Empoli,Udinese,L
+427,1,0,2023-03-18,Udinese,Milan,W,0,0,Milan,Udinese,L
+428,0,0,2023-04-02,Udinese,Bologna,L,1,0,Bologna,Udinese,W
+429,0,0,2023-04-08,Udinese,Monza,D,0,0,Monza,Udinese,D
+430,0,0,2023-04-16,Udinese,Roma,L,1,1,Roma,Udinese,W
+431,1,1,2023-04-23,Udinese,Cremonese,W,0,0,Cremonese,Udinese,L
+432,0,0,2023-04-28,Udinese,Lecce,L,1,1,Lecce,Udinese,W
+433,0,0,2023-05-04,Udinese,Napoli,D,0,0,Napoli,Udinese,D
+434,1,1,2023-05-08,Udinese,Sampdoria,W,0,0,Sampdoria,Udinese,L
+435,0,0,2023-05-14,Udinese,Fiorentina,L,1,1,Fiorentina,Udinese,W
+436,0,0,2023-05-21,Udinese,Lazio,L,1,0,Lazio,Udinese,W
+437,0,0,2023-05-27,Udinese,Salernitana,L,1,0,Salernitana,Udinese,W
+438,0,0,2023-06-04,Udinese,Juventus,L,1,0,Juventus,Udinese,W
